@@ -1,0 +1,10 @@
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/DAO/jdbc/ProductoDAOImpl.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/exceptions/PersistenciaException.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/exceptions/DatoInvalidoException.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/exceptions/DuplicadoException.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/domain/Producto.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/ui/MainApp.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/DAO/ProductoDAO.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/service/InventarioServiceLocal.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/service/impl/InventarioServiceImpl.java
+/home/Coder/wilffren/minitienda/src/main/java/com/mycompany/minitienda/infra/config/ConexionDB.java
